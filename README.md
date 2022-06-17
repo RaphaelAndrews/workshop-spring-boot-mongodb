@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3 align="center">MongoDB com Spring Boot</h3>
+  <h2 align="center">MongoDB com Spring Boot</h2>
 
   <p align="center">
     Projeto do Curso de Java do Professor Nelio Alves
